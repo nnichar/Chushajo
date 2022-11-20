@@ -16,14 +16,6 @@ In this game, each player takes the role of a car driver who tries to outwit the
 3. Implement at least 4 event handlers. The handlers are counted by method names.
  - In order to be counted, the handlers must do something substantially (not just printing/showing message). Out of the 4 handlers, one of them must be to handle KeyEvent and another one to handle MouseEvent. The other 2 handlers can be to handle any event.
 
-## How to Play
-
-<p align="center">
-    <img height="300em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/1.png"/>
-    <img height="300em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/2.png"/>
-    <img height="300em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/3.png"/>
-</p>
-
 ## Demonstration (Thai Version)
 
 - Demonstration Clip : https://youtu.be/wL7bp2kBu-c
