@@ -19,9 +19,9 @@ In this game, each player takes the role of a car driver who tries to outwit the
 ## How to Play
 
 <p align="center">
-    <img height="200em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/1.png"/>
-    <img height="200em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/2.png"/>
-    <img height="200em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/3.png"/>
+    <img height="400em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/1.png"/>
+    <img height="400em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/2.png"/>
+    <img height="400em" src="https://github.com/nnichar/chushajo/blob/main/picture/howto/3.png"/>
 </p>
 
 ## Demonstration (Thai Version)
