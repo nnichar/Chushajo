@@ -23,7 +23,7 @@ In this game, each player takes the role of a car driver who tries to outwit the
 
 ## Authors
 
-- [etnk125](https://github.com/etnk125)
-- [nnichar](https://github.com/nnichar)
-- Phuwit Chantafong
-- Norawich Sapagitchanchai
+- Natthawee Koengfak ([etnk125])(https://github.com/etnk125)
+- Phuwit Chantafong ([nnichar])(https://github.com/nnichar)
+- Nicharee Chalermsuksri 
+- Norawich Sapagitchanchai 
